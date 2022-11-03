@@ -1,4 +1,4 @@
-package com.viniciusvieira.algalog.controller;
+package com.viniciusvieira.algalog.api.controller;
 
 import java.util.List;
 
